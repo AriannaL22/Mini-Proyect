@@ -13,7 +13,7 @@ Funciones:
 3. guardarCiudadesCercanas(distancias, listaKms): Crea archivos .txt para cada km en listaKms con las ciudades cercanas.
 
 Uso:
-1. Colocar Ecuador_Distancias.txt en la misma carpeta que main.py  
+1. Colocar Ecuador_Distancias.txt en la misma carpeta que Proyecto.py  
 2. Ejecutar: python Proyecto.py  
 3. Se generan archivos como: ciudades150.txt, ciudades225.txt, ciudades320.txt, ciudades555.txt
 
