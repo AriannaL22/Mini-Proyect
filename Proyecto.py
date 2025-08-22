@@ -36,10 +36,11 @@ def guardarCiudadesCercanas(distancias, listaKms):
 
 def main():
     distancias = cargarDatos("Ecuador_Distancias.txt")
-    guardarCiudadesCercanas(distancias, [150, 225, 320, 555])
+    guardarCiudadesCercanas(distancias, [300, 100, 250])
 
 
 if __name__ == "__main__":
     main()
+
 
 
