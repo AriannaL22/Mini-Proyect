@@ -3,8 +3,6 @@ Este proyecto en Python genera archivos con ciudades conectadas directamente
 según una distancia máxima, usando numpy para filtrar eficientemente.
 Archivos
 - Ecuador_Distancias.txt : Distancias entre ciudades.  
-  Formato: CiudadOrigen|CiudadDestino1,Distancia1|CiudadDestino2,Distancia2|...
-  Ejemplo: Ambato|Azogues,280|Babahoyo,212|Pedernales,318
 - Proyecto.py : Script con las funciones principales.
 
 Funciones:
@@ -16,13 +14,6 @@ Uso:
 1. Colocar Ecuador_Distancias.txt en la misma carpeta que Proyecto.py  
 2. Ejecutar: python Proyecto.py  
 3. Se generan archivos como: ciudades150.txt, ciudades225.txt, ciudades320.txt, ciudades555.txt
-
-Ejemplo:
-ciudades300.txt:
-Ambato, Azogues, 280
-Ambato, Babahoyo, 212
-Azogues, Babahoyo, 125
-Babahoyo, Ambato, 250
 
 Requisitos
 - Python 3.x  
